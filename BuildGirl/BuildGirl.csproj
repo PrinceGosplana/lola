@@ -34,6 +34,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ExtendAero">
+      <HintPath>..\..\..\..\Desktop\ExtendAero.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,6 +50,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Directors\BatGirlDirector.cs" />
+    <Compile Include="Directors\BrideDirectory.cs" />
+    <Compile Include="Directors\HomeDirector.cs" />
+    <Compile Include="Directors\PartyDirector.cs" />
+    <Compile Include="Directors\PlaygirlDirector.cs" />
+    <Compile Include="Directors\ProtectDirector.cs" />
+    <Compile Include="Directors\SexDirector.cs" />
+    <Compile Include="Directors\WaitressDirector.cs" />
+    <Compile Include="Directors\WorkDirector.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,10 +93,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Girl.png" />
     <None Include="Resources\Girl.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\top_h.png" />
+    <None Include="Resources\Girl1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
