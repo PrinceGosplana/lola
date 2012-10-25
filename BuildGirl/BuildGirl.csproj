@@ -53,6 +53,7 @@
     <Compile Include="Directors\BatGirlDirector.cs" />
     <Compile Include="Directors\BrideDirectory.cs" />
     <Compile Include="Directors\HomeDirector.cs" />
+    <Compile Include="Directors\MerryChristmasDirector.cs" />
     <Compile Include="Directors\PartyDirector.cs" />
     <Compile Include="Directors\PlaygirlDirector.cs" />
     <Compile Include="Directors\ProtectDirector.cs" />
@@ -94,7 +95,36 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Girl.png" />
+    <None Include="Resources\shoes_mc.png" />
+    <None Include="Resources\scirt_mc.png" />
+    <None Include="Resources\cap_mc.png" />
+    <None Include="Resources\body_mc.png" />
     <None Include="Resources\Girl.png" />
+    <None Include="Resources\body_h.png" />
+    <None Include="Resources\shoes_w.png" />
+    <None Include="Resources\legs_w.png" />
+    <None Include="Resources\body_w.png" />
+    <None Include="Resources\Shoes_waitress.png" />
+    <None Include="Resources\mutch_waitress.png" />
+    <None Include="Resources\body_waitress.png" />
+    <None Include="Resources\top_p.png" />
+    <None Include="Resources\shoes_p.png" />
+    <None Include="Resources\legs_p.png" />
+    <None Include="Resources\body_p.png" />
+    <None Include="Resources\swimsuit.png" />
+    <None Include="Resources\ears.png" />
+    <None Include="Resources\accessories.png" />
+    <None Include="Resources\shoes_pa.png" />
+    <None Include="Resources\legs_pa.png" />
+    <None Include="Resources\body_pa.png" />
+    <None Include="Resources\top_h.png" />
+    <None Include="Resources\top_f.png" />
+    <None Include="Resources\shoes_f.png" />
+    <None Include="Resources\legs_h.png" />
+    <None Include="Resources\legs_f.png" />
+    <None Include="Resources\bride_dress.png" />
+    <None Include="Resources\body_f.png" />
+    <None Include="Resources\bat_girl.png" />
     <None Include="Resources\Girl1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -121,7 +121,94 @@
   <data name="Girl1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Girl1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="accessories" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\accessories.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bat_girl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bat_girl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="body_f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\body_f.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="body_p" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\body_p.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="body_pa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\body_pa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="body_w" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\body_w.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="body_waitress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\body_waitress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bride_dress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bride_dress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ears" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ears.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="legs_f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\legs_f.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="legs_h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\legs_h.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="legs_p" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\legs_p.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="legs_pa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\legs_pa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="legs_w" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\legs_w.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mutch_waitress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mutch_waitress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shoes_f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shoes_f.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shoes_p" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shoes_p.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shoes_pa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shoes_pa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shoes_w" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shoes_w.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shoes_waitress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Shoes_waitress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="swimsuit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\swimsuit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top_f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top_f.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top_h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top_h.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top_p" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top_p.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="body_h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\body_h.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="body_mc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\body_mc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cap_mc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cap_mc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Girl" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Girl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scirt_mc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scirt_mc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shoes_mc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shoes_mc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

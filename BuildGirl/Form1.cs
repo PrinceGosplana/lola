@@ -77,6 +77,12 @@ namespace BuildGirl
                 dir.Construct();
                 pictureBox1.Image = girl.GetProduct().Picture;
             }
+            if (cb_dress.Text == "Merry Christmas")
+            {
+                MerryChristmasDirector dir = new MerryChristmasDirector(girl);
+                dir.Construct();
+                pictureBox1.Image = girl.GetProduct().Picture;
+            }
         }
 
         private void Form1_Load(object sender, EventArgs e)

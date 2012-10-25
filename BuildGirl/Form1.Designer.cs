@@ -29,21 +29,11 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.extendAero1 = new ExtendAero.ExtendAero();
             this.cb_dress = new System.Windows.Forms.ComboBox();
             this.btn_dress = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // extendAero1
-            // 
-            this.extendAero1.BackColor = System.Drawing.Color.Black;
-            this.extendAero1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.extendAero1.Location = new System.Drawing.Point(0, 0);
-            this.extendAero1.Name = "extendAero1";
-            this.extendAero1.Size = new System.Drawing.Size(458, 734);
-            this.extendAero1.TabIndex = 2;
             // 
             // cb_dress
             // 
@@ -57,6 +47,7 @@
             "Work",
             "Waitress",
             "BatGirl",
+            "Merry Christmas",
             "Party",
             "Playgirl",
             "Protect",
@@ -105,7 +96,6 @@
             this.Controls.Add(this.cb_dress);
             this.Controls.Add(this.btn_dress);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.extendAero1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Girl";
@@ -119,7 +109,7 @@
 
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btn_dress;
-        private ExtendAero.ExtendAero extendAero1;
+        //private ExtendAero.ExtendAero extendAero1;
         private System.Windows.Forms.ComboBox cb_dress;
     }
 }
